@@ -3,7 +3,7 @@ body{
 }
 
 .logo {
-	width:150px;
+	width:150cx;
 	height:70px;
 }
 
@@ -22,9 +22,10 @@ h3{
 table{	width: 1500px;
 }
 /*style du corp du body*/
-div#contenu div{
-	display: inline-block;
-width: 40%}
+#contenu{
+	display: flex;
+    flex-direction: row;
+}
 div#contenu div.lelftbox{ display: inline-block;
 vertical-align: top; } 
 div#contenu div.rigthbox{display: inline-block;
@@ -114,8 +115,11 @@ li{
 /* #colonne1, #colonne2{width: 5cm; 
 	float: left;
 */
-}
 .wrapper{
 	display:grid;
 	grid-template-columns: repeat(3,5fr);
+}
+.blocfooter-service{
+	display: flex;
+	flex-direction: column;
 }
