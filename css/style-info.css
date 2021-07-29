@@ -1,0 +1,14 @@
+body{
+color: black;
+background:white;
+width: 1000px;
+margin-left: 3cm;
+margin-right: 5cm;
+}
+.wrapper{
+	display: grid;
+	grid-template-columns: repeat(3,5fr);
+}
+b1{
+	background:yellow;
+}
