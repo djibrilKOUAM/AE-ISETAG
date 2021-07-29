@@ -1,6 +1,12 @@
 body{
 	background: #E7E7E5;
 }
+
+.logo {
+	width:150px;
+	height:70px;
+}
+
 h1{
 	color: green;
 	background: yellow;
