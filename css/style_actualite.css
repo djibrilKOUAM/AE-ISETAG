@@ -1,4 +1,4 @@
 .banner-actu{
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../img/flat-lay.jpg') center center fixed no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../media/flat-lay.jpg') center center fixed no-repeat;
 	background-size: cover;
 }

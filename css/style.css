@@ -37,7 +37,7 @@ body{
 	color: blue;
 }
 .bg-image{
-	background: url('../img/img-bureau-1.png');
+	background: url('../media/img-bureau-1.png');
 	transition: .4s;
 }
 .white:hover{
@@ -50,7 +50,7 @@ body{
 	background: #b3b3b3ff;
 }
 .bg-image1{
-	background: url('../img/img-bureau.png');
+	background: url('../media/img-bureau.png');
 	transition: .4s;
 }
 .bg-image1:hover{
@@ -133,7 +133,7 @@ ul li a{
 	background-size: cover;
 }
 .banner-disc{
-	background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../img/womens.jpg') center center fixed no-repeat;
+	background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../media/womens.jpg') center center fixed no-repeat;
 	background-size: cover;
 }
 .bg-ft{
